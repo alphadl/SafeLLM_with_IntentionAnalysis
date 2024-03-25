@@ -31,10 +31,11 @@ Add new results and analyses in our report:
 
 ## Citation
 If you find this work helpful, please consider citing as follows:
-
+```ruby
     @article{zhang2024intention,
         title={Intention analysis prompting makes large language models a good jailbreak defender},
         author={Zhang, Yuqi and Ding, Liang and Zhang, Lefei and Tao, Dacheng},
         journal={arXiv preprint arXiv:2401.06561},
         year={2024}
     }
+'''
